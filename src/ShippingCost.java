@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ShippingCost {
     public static void main(String[] args)
     {
         boolean done= false;
