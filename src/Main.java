@@ -19,7 +19,8 @@ public class Main {
                 itemPrice = in.nextDouble();
                 in.nextLine();
                 done= true;
-            } else
+            }
+            else
             {
                 trash=in.nextLine();
                 System.out.println("You need to enter a valid amount, not: " + trash);
